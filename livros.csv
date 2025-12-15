@@ -1,0 +1,20 @@
+id_livro,titulo,autor,categoria,ano,total_copias,copias_disponiveis
+1,Dom Casmurro,Machado de Assis,Clássico Brasileiro,1899,5,5
+2,O Cortiço,Aluísio Azevedo,Clássico Brasileiro,1890,3,3
+3,Capitães da Areia,Jorge Amado,Clássico Brasileiro,1937,4,3
+4,Grande Sertão: Veredas,João Guimarães Rosa,Clássico Brasileiro,1956,2,2
+5,Vidas Secas,Graciliano Ramos,Clássico Brasileiro,1938,3,3
+6,Memórias Póstumas de Brás Cubas,Machado de Assis,Clássico Brasileiro,1881,4,4
+7,A Moreninha,Joaquim Manuel de Macedo,Clássico Brasileiro,1844,2,2
+8,O Primo Basílio,Eça de Queirós,Clássico Brasileiro,1878,3,3
+9,Senhora,Joaquim Manuel de Macedo,Clássico Brasileiro,1875,2,2
+10,A Hora da Estrela,Clarice Lispector,Clássico Brasileiro,1977,4,4
+11,1984,George Orwell,Ficção Científica,1949,5,5
+12,Fahrenheit 451,Ray Bradbury,Ficção Científica,1953,3,3
+13,Brave New World,Aldous Huxley,Ficção Científica,1932,4,4
+14,Duna,Frank Herbert,Ficção Científica,1965,2,2
+15,O Guia do Mochileiro das Galáxias,Douglas Adams,Ficção Científica,1979,3,3
+16,Neuromancer,William Gibson,Ficção Científica,1984,2,2
+17,Fundação,Isaac Asimov,Ficção Científica,1951,4,4
+19,O Fim da Infância,Arthur C. Clarke,Ficção Científica,1953,2,2
+20,Contato,Carl Sagan,Ficção Científica,1985,3,2
